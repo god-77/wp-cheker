@@ -6,4 +6,4 @@
 git clone https://github.com/god-77/wp-cheker.git
 ```
 
-## Autho God Of Server
+## Author God Of Server
